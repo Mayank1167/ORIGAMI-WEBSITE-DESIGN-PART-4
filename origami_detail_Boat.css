@@ -1,0 +1,28 @@
+.a_Boat{
+    text-align: center;
+    border-bottom: solid;
+}
+
+.main_head {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2rem;
+    border-bottom: solid;
+    border-top: solid;
+    background-image: url('https://www.bbvaopenmind.com/wp-content/uploads/2018/02/origami-portada.jpg');
+}
+
+.boat_video {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.video_title{
+    text-align: center;
+    border-bottom: solid;
+    font-size: 2rem;
+    background-color: rgba(77, 195, 255, 0.674);
+}

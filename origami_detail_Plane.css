@@ -1,0 +1,29 @@
+.paper_plane {
+    padding-top: 25px;
+    text-align: center;
+    
+}
+
+.main_head2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2rem;
+    border-bottom: solid;
+    border-top: solid;
+    background-image: url('https://i.ytimg.com/vi/cbrfR7_9PHw/maxresdefault.jpg');
+}
+
+.plane_video {
+    text-align: center;
+}
+
+.plane_title{
+    text-align: center;
+    border-bottom: solid;
+    border-top: solid;
+    font-size: 2rem;
+    background-color: rgba(77, 195, 255, 0.674);
+}

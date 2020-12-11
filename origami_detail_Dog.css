@@ -1,0 +1,16 @@
+.dog {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.dog_video {
+    text-align: center;
+}
+
+.dog_title{
+    text-align: center;
+    border-bottom: solid;
+    border-top: solid;
+    font-size: 2rem;
+    background-color: rgba(77, 195, 255, 0.674);
+}
